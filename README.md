@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Omolola-Akinleye
-- 👀 I’m interested in world music, all things UI, and blockchain technogy. 
-- 🌱 I’m currently learning Raspberry PI, Touch Designer, React, CSS, and Solidity.
-- 💞️ I’m looking to collaborate on Front-end, Blockchain projects, or web-based music projects
+- 👀 I’m interested in world music and all things UI. 
+- 🌱 I’m currently learning Touch Designer, React, and Node.js.
+- 💞️ I’m looking to collaborate on Front-end or web-based music projects
 - 📫 How to reach me @lolawebdev@gmail.com
 
 <!---
